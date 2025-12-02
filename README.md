@@ -7,4 +7,16 @@ $ npm install
 $ npm run frontend:dev
 ```
 
-![Screenshot](assets/readme_screenshot.png)
+To debug the project locally
+
+```
+$ npm run dev
+```
+
+To deploy the build manually
+
+```
+$ npm run build
+```
+
+Preview app - deployed in AWS Cloudfront - https://d2kedliktzuk92.cloudfront.net/
