@@ -19,4 +19,6 @@ To deploy the build manually
 $ npm run build
 ```
 
-Preview app - deployed in AWS Cloudfront - https://d2kedliktzuk92.cloudfront.net/
+Preview app - deployed in AWS Cloudfront
+
+[![Restaurant Reviews App Screenshot](assets/readme_screenshot.png)](https://d2kedliktzuk92.cloudfront.net/)
